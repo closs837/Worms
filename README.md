@@ -7,8 +7,8 @@ drifts between rounds, and grenade and missile pickups.
 python main.py
 ```
 
-Your worm moves with `A`/`D`, weapons are selected with the mouse, and the shot is fired
-from the same controls once a weapon is chosen.
+Your worm moves with `A`/`D`, the grenade and the missile are picked with a left click on
+their icons, and the right mouse button is used to aim and fire.
 
 Everything lives in `main.py` (about 400 lines) plus the game art — terrain, explosions,
 the weapon sprites and the wind indicator. It started as a game-programming assignment and
